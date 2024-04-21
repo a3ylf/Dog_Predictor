@@ -1,2 +1,6 @@
 # prova2_IA
-prova 2 de IA
+input.csv = arquivo bruto
+Processed_data.csv = Dados processados
+grupos.csv = os grupos que serão buscados
+preprocess.ipynb = Pré processamento
+models.ipynb = Modelos pedidos
