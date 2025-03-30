@@ -1,4 +1,6 @@
-# prova2_IA
+# Predicting dog types by their attributes
+
+
 input.csv = arquivo bruto
 Processed_data.csv = Dados processados
 grupos.csv = os grupos que serão buscados
